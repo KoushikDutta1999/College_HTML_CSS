@@ -1,0 +1,48 @@
+body {
+  background-color: linen;
+}
+
+h1{
+	text-align: center;
+}
+
+.first{
+	color: black;
+	background-color: white;
+	border: 5px ridge ; 
+    font-family: Sans-serif;
+    padding: 20px;
+    margin:20px;
+}
+.second{
+	color: red;
+	background-color: yellow;
+	border: 3px solid ; 
+    font-family: Sans-serif;
+    padding: 20px;
+    margin:20px;
+ }
+.third{
+	color: red;
+	background-color: yellow;
+	border: 3px dotted ; 
+    font-family: Sans-serif;
+    padding: 20px;
+    margin:20px; 
+}
+.forth{
+	color: red;
+	background-color: yellow;
+	border: 3px solid ; 
+    font-family: Sans-serif;
+    padding: 20px;
+    margin:20px;
+}
+.five{
+	color: black;
+	background-color: white;
+	border: 3px outset ; 
+    font-family: Sans-serif;
+    padding: 15px;
+    margin:15px;
+}
