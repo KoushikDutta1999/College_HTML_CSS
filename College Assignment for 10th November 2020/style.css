@@ -1,0 +1,87 @@
+body {
+  background-color: linen;
+}
+h1{
+	text-align: center;
+}
+.first{
+	color: black;
+	background-color: white;
+	border: 5px ridge ; 
+    font-family: Sans-serif;
+    padding: 20px;
+    margin:20px;
+}
+.second{
+	color: red;
+	background-color: yellow;
+	border: 3px solid ; 
+    font-family: Sans-serif;
+    padding: 20px;
+    margin:20px;
+ }
+.third{
+	color: red;
+	background-color: yellow;
+	border: 3px dotted ; 
+    font-family: Sans-serif;
+    padding: 20px;
+    margin:20px; 
+}
+.list{
+	color: blue;
+	font-size: 30px;
+}
+a{
+	color: purple;
+	text-decoration: none;
+	background-color: white;
+	padding: 2px;
+	border: 1px solid purple;
+}
+a:hover{
+	background-color: yellow;
+	box-shadow: 3px ;
+	color: red;
+}
+ol{
+	color: blue;
+	font-size: 20px;
+}
+.last{
+	font-size: 30x;
+	text-align: center;
+}
+#laptop{
+	width: 600px;height: 350px;
+	border:3px solid black; 
+		z-index: 0;
+}
+#html{
+	width: 100px;height: 100px;
+	position: absolute;
+	top: 805px;
+	left:150px;
+		z-index: 2;
+}
+#css{
+	width: 100px;height: 100px;
+	position: absolute;
+	top: 805px;
+	left:250px;
+		z-index: 2;
+}
+#nsec{
+	width: 100px;height: 100px;
+	position: absolute;
+	top: 805px;
+	left:350px;
+		z-index: 2;
+}
+#javascript{
+	width: 322px;height: 150px;
+	position: absolute;
+	top: 905px;
+	left:150px;
+		z-index: 1;
+}
